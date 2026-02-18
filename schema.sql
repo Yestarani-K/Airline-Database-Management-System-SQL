@@ -1,4 +1,3 @@
-
 schema.sql
   '''sql
 CREATE TABLE Bookings (
