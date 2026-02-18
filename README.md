@@ -1,5 +1,4 @@
- 
-# ✈️ Airline Database Management System
+ # ✈️ Airline Database Management System
 
 ## 📌 Project Overview
 This project represents a relational Airline Booking Database system.
